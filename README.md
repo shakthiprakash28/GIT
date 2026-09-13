@@ -9,3 +9,7 @@ A  day3.txt
 ?? scratch.txt
 root@escbash-lab:~/journal#
 *****************************************************************
+Commands this lesson introduced
+git diff --cached shows what the next commit will contain.
+git diff HEAD shows all changes since the last commit.
+git add -p stages changes hunk by hunk.
