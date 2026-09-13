@@ -20,3 +20,10 @@ git diff --cached compares the staging area against HEAD. It answers: what will 
 git diff HEAD compares working files against HEAD. It answers: what changed in total since the last commit?
 
 <img width="615" height="153" alt="image" src="https://github.com/user-attachments/assets/cf4e7467-962d-4ed5-bc24-214f893b73e4" />
+
+*******************
+
+
+git rm --cached debug.log
+Output:
+rm 'debug.log'
